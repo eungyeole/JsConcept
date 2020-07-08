@@ -25,5 +25,6 @@
 ## [원시타입 vs 참조타입]
 `
 int i = null;//불가능
+
 Integer integer = null; //가능
 `
