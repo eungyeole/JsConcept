@@ -23,8 +23,6 @@
   - 메모리상의 실제 객체의 위치를 나타내는 주소값을 할당받음.
   
 ## [원시타입 vs 참조타입]
-`
-int i = null;//불가능
+`int i = null;//불가능`
 
-Integer integer = null; //가능
-`
+`Integer integer = null; //가능`
