@@ -14,3 +14,11 @@
 ## 3. AutoBoxing
   - 원시 타입(Primitive Type)이 생성자(constructor) 및 해당 메소드(method)를 쓸수 있는 이유
   - 원시 타입(Primitive Type)에서 특정 property나 method를 호출하려고 할때 javascript는 임시로 Wrapper Object로 변환하여 접근
+
+## 4. 원시타입
+  - 원시타입은 immutable data type이기 때문에, 값이 변경될 경우, 새로운 값을 할당을 받음.
+  
+  
+## 5. 객체타입
+  - 메모리상의 실제 객체의 위치를 나타내는 주소값을 할당받음.
+  
