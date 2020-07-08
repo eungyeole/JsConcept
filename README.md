@@ -8,3 +8,9 @@ TypeValue
 
 ### Boolean
 true, false
+
+### Null
+null
+
+### Undefined
+undefined
