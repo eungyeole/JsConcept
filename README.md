@@ -1,16 +1,16 @@
 TypeValue
 ---------
 ### String 
-모든 문자열
+  모든 문자열
 
 ### Number
-정수, 실수, NaN, infinity
+  정수, 실수, NaN, infinity
 
 ### Boolean
-true, false
+  true, false
 
 ### Null
-null
+  null
 
 ### Undefined
-undefined
+  undefined
